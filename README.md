@@ -29,7 +29,7 @@ Un projet de conseils touristiques pour aider les gens à organiser leurs voyage
 Commencez par cloner le dépôt
 
 ```bash
-git clone https://github.com/KuroiNekOo/KuroiNekOo-Hercule2.git
+git clone https://github.com/KuroiNekOo/KuroiNekOo-Tripodvisor.git
 ```
 
 Entrez dans le dépôt local et ouvrez le avec VSCode
